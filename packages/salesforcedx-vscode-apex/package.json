@@ -34,7 +34,7 @@
     "find-java-home": "0.2.0",
     "path-exists": "3.0.0",
     "shelljs": "0.8.3",
-    "vscode-extension-telemetry": "0.0.17",
+    "vscode-extension-telemetry": "0.4.3",
     "vscode-languageclient": "5.1.1"
   },
   "devDependencies": {
@@ -52,7 +52,7 @@
     "mocha": "^5",
     "sinon": "^7.3.1",
     "typescript": "3.8.3",
-    "vscode-extension-telemetry": "0.0.17"
+    "vscode-extension-telemetry": "0.4.3"
   },
   "scripts": {
     "vscode:prepublish": "npm prune --production",
